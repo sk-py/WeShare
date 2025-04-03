@@ -16,7 +16,7 @@ export const homeHeaderStyles = StyleSheet.create({
         width: '100%',
     },
     logo: {
-        width: screenWidth * 0.4,
+        width: screenWidth * 0.2,
         height: screenHeight * 0.048,
         resizeMode: 'contain',
     },
